@@ -1,0 +1,15 @@
+outlook,temperature,windy,play
+sunny,30,false,no
+sunny,32,true,no
+overcast,28,false,yes
+rain,20,false,yes
+rain,18,false,yes
+rain,17,true,no
+overcast,16,true,yes
+sunny,25,false,no
+sunny,21,false,yes
+rain,22,false,yes
+sunny,23,true,yes
+overcast,24,true,yes
+overcast,29,false,yes
+rain,19,true,no
